@@ -1,0 +1,15 @@
+{
+    "name": "Name",
+    "image": "DP",
+    "phone": "Phone No",
+    "email": "Email",
+    "address": "Address",
+    "action": "Action",
+    "accept": "Accept",
+    "reject": "Reject",
+    "confirmTitle": "Are you sure?",
+    "rejectMessage": "Do you really want to reject this student ?",
+    "no_student": "No Students Added",
+    "view_profile": "View Profile",
+    "na": "N/A"
+}

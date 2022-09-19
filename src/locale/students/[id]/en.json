@@ -1,0 +1,73 @@
+{
+    "name": "Name",
+    "phone": "Phone No",
+    "email": "Email",
+    "address": "Address",
+    "edit_profile": "Edit Profile",
+    "contactDetails": "Contact Details",
+    "courses": "Courses",
+    "subjects": "Your Subjects",
+    "viewAll": "View All",
+    "loading": "Loading Student Details",
+    "na": "N/A",
+    "studentEditedMessage": "Student image edited successfully",
+    "deleteError": "Some error occurred",
+    "title": "Edit image",
+    "chooseImage": "Click to enter image",
+    "chooseTexts": "Enter text to edit",
+    "cancel": "Cancel",
+    "upload": "Upload",
+    "next": "Edit",
+    "selectState": "Select State",
+    "selectCity": "Select City",
+    "details": {
+        "loading": "Loading Teacher Details",
+        "contactDetails": "Contact Details",
+        "studyDetails": "Study Details",
+        "number": "Contact no",
+        "email": "Email",
+        "instName": "Name",
+        "address": "Address",
+        "website": "Website",
+        "editProfile": "View Exams",
+        "classesAttended": "Classes Attended",
+        "attendance": "Attendance %",
+        "upcomingClasses": "Next Classes",
+        "price": "Price",
+        "noCourses": "No Courses added yet",
+        "viewDetails": "View details",
+        "subjects": "Subjects",
+        "batch": "Batches",
+        "courses": "Courses",
+        "noSubjects": "No subjects assigned"
+    },
+    "error": {
+        "deleteError": "Something went wrong!"
+    },
+    "successMessage": {
+        "teacherEditedMessage": "Teacher edited successfully"
+    },
+    "errorMessages": {
+        "nameErrorMessages": "Provide a name",
+        "emailErrorMessages": "Email must not be empty",
+        "emailErrorMessages1": "Provide a valid Email",
+        "passwordErrorMessage": "Password must not be empty",
+        "phoneErrorMessages": "Provide a phone no.",
+        "addressErrorMessages": "Provide a address",
+        "cityErrorMessages": "Provide a city",
+        "stateErrorMessages": "Provide a state",
+        "passwordErrorMessages": "Provide a password",
+        "pincodeErrorMessages": "Provide a Pincode"
+    },
+    "labels": {
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "phone": "Phone",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "pinCode": "PinCode",
+        "chooseInstitution": "Choose Institution"
+    }
+}

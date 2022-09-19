@@ -1,0 +1,845 @@
+{
+    "viewAll": "View All",
+    "Total Students": "Total Students Enrolled per Course",
+    "defaultPageTitle": "Jupion Classes",
+    "menu": "Menu",
+    "mainKey": {
+        "enter": "Enter",
+        "successful": "successful",
+        "email": "Email",
+        "password": "Password",
+        "phone": "Phone",
+        "name": "Name",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "pinCode": "Pin code"
+    },
+    "common": {
+        "confirm": {
+            "yes": "Yes",
+            "cancel": "Cancel",
+            "default": "Are you sure?",
+            "delete": "Are you sure to delete?"
+        }
+    },
+    "attendance": {
+        "dialogTitle": "Take Attendance",
+        "button-cancel": "Cancel",
+        "dialogButton": "Submit Attendance",
+        "unSelectAll": "Unselect All",
+        "selectAll": "Select All",
+        "no_student": "No students Found",
+        "takeAttendance": "Attendance taken successfully"
+    },
+    "student": {
+        "allStudents": "All students",
+        "search_student": "Search student by name",
+        "view_profile": "View profile",
+        "accept": "Accept",
+        "reject": "Reject"
+    },
+    "autocomplete": {
+        "institute": {
+            "label": "Institute",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "course": {
+            "label": "Course",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "specialization": {
+            "label": "Specialization",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "semester": {
+            "label": "Semester",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "unit": {
+            "label": "Unit",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "chapter": {
+            "label": "Chapter",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "subject": {
+            "label": "Subject",
+            "placeholder": "Start typing to see suggestions"
+        }
+    },
+    "error": {
+        "500": "Something went wrong!",
+        "aValid": "a valid",
+        "isRequired": "is required"
+    },
+    "logout": {
+        "title": "Are you Sure?",
+        "message": "Do you really want to Logout ?"
+    },
+    "coverText": {
+        "title": {
+            "complete": "Complete",
+            "eLearningPortal": "E-learning Portal"
+        },
+        "subTitle": {
+            "onlineVideo": "Online video lectures",
+            "onlineClass": "Online live classes",
+            "onlineNotes": "Online notes & materials",
+            "onlineExams": "Online exams",
+            "onlineAttendance": "Online attendance system"
+        }
+    },
+    "edit": "Edit",
+    "delete": "Delete",
+    "done": "Done",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "view": "View",
+    "nameLabel": "Name",
+    "specialization": {
+        "title": "All Specialization",
+        "addButton": "Create Specialization",
+        "searchPlaceholder": "search Specialization",
+        "form": {
+            "validate": {
+                "name": "Please Provide Specialization Name",
+                "shortName": "Please Provide Short Name"
+            },
+            "confirm": {
+                "delete": "Are you sure to delete?"
+            }
+        },
+        "success": {
+            "editedSuccess": "Edited Successfully",
+            "deletedSuccessfully": "Deleted Successfully"
+        }
+    },
+    "tableHeading": {
+        "serialNumber": "Sl No.",
+        "name": "Name",
+        "shortName": "Short Name",
+        "course": "Course",
+        "specialization": "Specialization",
+        "specializations": "Specializations",
+        "status": "Status",
+        "institute" : "Franchise",
+        "institutes" : "Franchises",
+        "syllabus": "Syllabus",
+        "subject": "Subject",
+        "semester": "Semester",
+        "logo": "Logo",
+        "units": "Units",
+        "unit": "Unit",
+        "chapters": "Chapters",
+        "chapter": "Chapter",
+        "topics": "Topics",
+        "topic": "Topic",
+        "publishYear": "Publish Year",
+        "noCourses": "No courses found",
+        "noSubjects": "No Subjects Found",
+        "noSemesters": "No Semesters Found",
+        "noSpecializations": "No Specializations Found",
+        "noSyllabuses": "No Syllabuses Found",
+        "noUnits": "No Units Found",
+        "noChapters": "No Chapters Found",
+        "noTopics": "No Topics Found"
+    },
+    "snackbarMessages": {
+        "somethingWentWrong": "Something went wrong",
+        "createCourseSuccess": "Course created successfully",
+        "createSubjectSuccess": "Subject Created Successfully",
+        "createSemesterSuccess": "Semester Created Successfully",
+        "createSyllabusSuccess": "Syllabus Created Successfully",
+        "createUnitSuccess": "Unit Created Successfully",
+        "createChapterSuccess": "Chapter Created Successfully",
+        "createTopicSuccess": "Topic Created Successfully",
+        "createSpecializationSuccess": "Specialization Created Successfully",
+        "createdSuccess": "Created successfully"
+    },
+    "institute": {
+        "title": "Institutes",
+        "form": {
+            "button": {
+                "addInstitute": "+ Add Institute",
+                "viewProfile": "View Profile",
+                "next": "Save",
+                "cancel": "Cancel",
+                "upload": "Upload",
+                "switch": "Switch To",
+                "update": "Save",
+                "clear": "Clear"
+            },
+            "label": {
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "email": "Email",
+                "phoneNumber": "Phone Number",
+                "password": "Password"
+            },
+            "placeHolder": {
+                "inputBase": "Search Institute",
+                "textPlace": "Search For Courses"
+            },
+            "headings": {
+                "filterHeading": "Filter by"
+            },
+            "errors": {
+                "noInstitution": "No Institution found for this criteria. Search something else or change the filter.",
+                "oops": "Oops !"
+            },
+            "tableHeadings": {
+                "color": "Color",
+                "institutionLogo": "Institute logo",
+                "institutionName": "Institute name",
+                "Number": "Number",
+                "Email": "Franchise email",
+                "Address": "Address",
+                "Stats": "Stats",
+                "Actions": "Actions"
+            },
+            "cardMenuItems": {
+                "updateMenu": "Update",
+                "terminateMenu": "Terminate",
+                "colorEditMenu": "Edit ThemeColor"
+            },
+            "successMessage": {
+                "deletedSuccessFully": "Deleted successfully!",
+                "editedSuccessFully": "Edited successfully!",
+                "createdSuccessFully": "Created successfully!",
+                "userCreatedSuccessFully": " User created successfully!",
+                "institutionCreatedSuccessFully": " Institution created successfully!"
+            },
+            "formControl": {
+                "course": "Course",
+                "state": "State",
+                "city": "City"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this Institute?",
+                "messageForApprove": "Do you really want to approve this Institute?",
+                "messageForReject": "Do you really want to approve this Student?",
+                "okLebel": "Delete",
+                "options": "No, don't"
+            },
+            "variants": {
+                "variant": "success",
+                "variantError": "error"
+            },
+            "error": {
+                "deleteError": "Something went wrong!"
+            },
+            "stepperTitles": {
+                "firstStep": "Enter email and password to continue",
+                "secondStep": "Enter franchise details to continue",
+                "thirdStep": "Choose courses for the Franchise",
+                "fourthStep": " Click or drag here to upload your logo",
+                "fifthStep": "Manage look & feel"
+            },
+            "stepperHeadings": {
+                "firstStep": "Create user",
+                "secondStep": "Basic details",
+                "thirdStep": "Courses",
+                "fourthStep": "Design",
+                "fifthStep": "Design"
+            },
+            "errorMessages": {
+                "nameErrorMessages": "Provide a name",
+                "emailErrorMessages": "Email must not be empty",
+                "emailErrorMessages1": "Provide a valid Email",
+                "passwordErrorMessage": "Password must not be empty",
+                "passwordErrorMessageValidate": "Password must be 8 char and at least one number with one special character",
+                "phoneErrorMessages": "Provide a phone no.",
+                "phoneErrorMessagesValidate": "Provide a valid phone no.",
+                "addressErrorMessages": "Provide a address",
+                "cityErrorMessages": "Provide a city",
+                "stateErrorMessages": "Provide a state",
+                "websiteErrorMessages": "Provide a website",
+                "websiteErrorMessagesValidate": "Provide a valid website",
+                "pinErrorMessage": "Provide a pin code",
+                "pinErrorMessageValid": "Provide a pin code of 4 digit or 6 digit",
+                "imageErrorMessage": "Provide an image",
+                "priceErrorMessage": "Provide an price",
+                "courseErrorMessage" : "Select at least one Course"
+            },
+            "labels": {
+                "name": "Name",
+                "email": "Email",
+                "password": "Password",
+                "institutionName": "Institute Name",
+                "institutionEmail": "Institute Email",
+                "phone": "Phone",
+                "address": "Address",
+                "website": "Website",
+                "city": "City",
+                "state": "State",
+                "pincode": "Pincode",
+                "price": "Price"
+
+            },
+            "title": {
+                "titleToSelectTheme": "Select Theme",
+                "forColor": "Choose a color"
+            },
+            "stepperTitleForEditInst": {
+                "firstStep": "Edit Franchise",
+                "secondStep": "Enter photo and color to edit"
+            },
+            "stepperHeadingsForEdit": {
+                "firstStep": "Details",
+                "secondStep": "Photo and colors"
+            },
+            "imageInputTitle": {
+                "title": "Click to upload your logo",
+                "chooseImage": "Choose Image To Edit",
+                "chooseColor": "Choose Franchise Theme Color",
+                "chooseTexts": "Enter Details To Edit"
+            },
+            "menuItem": {
+                "selectState": "Select state",
+                "selectCity": "Select city",
+                "approve": "Approve",
+                "reject": "Reject"
+            }
+        },
+        "details": {
+            "loading": "Loading franchise Details",
+            "visitWebsite": "Visit Website",
+            "editProfile": "Edit Details",
+            "contactDetails": "Contact Details",
+            "number": "Contact no.",
+            "email": "Email",
+            "address": "Address",
+            "website": "Website",
+            "theme": "Theme",
+            "courses": "Courses",
+            "teachers": "Teachers",
+            "viewAll": "View all",
+            "appearance": "Appearance",
+            "viewTransactions": "View Transactions",
+            "viewDetails": "View Details",
+            "batches": "Batches",
+            "students": "Students",
+            "classes": "Classes",
+            "price": "Price",
+            "noCourses": "No courses added yet",
+            "addCourse": {
+                "title" :"Add Course",
+                "button": {
+                    "cancel": "Cancel",
+                    "add": "Add"
+                },
+                "form": {
+                    "course": "Search Course",
+                    "price": "Price",
+                    "name": "Name",
+                    "minPrice": "Min price",
+                    "maxPrice": "Max price"
+                },
+                "validate": {
+                    "selectCourse": "Select a course",
+                    "enterPrice": "Enter a price",
+                    "enterValidPrice": "Enter a valid price",
+                    "validatePrice": "Price must be between minimum price and maximum price"
+                },
+                "success": {
+                    "createdSuccessfully": "Course added successfully",
+                    "deletedSuccessfully": "Course deleted successfully"
+                },
+                "confirm": {
+                    "title": "Are your sure?",
+                    "message": "Are to sure to remove the course from the franchise",
+                    "remove": "Remove"
+                }
+            }
+
+        }
+    },
+    "instituteOnBoarding": {
+        "basicDetails": {
+            "title": "Sign Up",
+            "description": "Please enter following details to continue",
+            "form": {
+                "label": {
+                    "instituteName": "Institute name",
+                    "instituteEmail": "Institute email",
+                    "institutePhone": "Institute phone",
+                    "website": "Website",
+                    "address": "Address",
+                    "city": "City",
+                    "state": "State",
+                    "pinCode": "Pin code"
+                },
+                "button": {
+                    "next": "Next"
+                },
+                "error": {
+                    "validEmail": "Enter a valid email ID",
+                    "validPhone": "Enter a valid phone number",
+                    "validPinCode": "Enter a valid pin code"
+                },
+                "success": {
+                    "detailsAdded": "Basic Details added Successfully"
+                }
+            }
+        },
+        "courseDetails": {
+            "title": "Courses",
+            "description": "Choose courses for the institute",
+            "button": {
+                "next": "Next",
+                "back": "Back"
+            },
+            "success": {
+                "courseAdded": "Courses added successfully"
+            },
+            "error": {
+                "courseRequired": "Please select at least one course"
+            },
+            "form": {
+                "search": "Search courses"
+            }
+        },
+        "designDetails": {
+            "title": "Look & feel",
+            "description": "Manage look & feel",
+            "upload": "Click or drag to upload your logo",
+            "selectTheme": "Select a theme",
+
+            "button": {
+                "next": "Create",
+                "back": "Back"
+            },
+            "cropper": {
+                "save": "Save",
+                "cancel": "Cancel",
+                "uploadPhoto": "Upload Photo",
+                "clickHere": "Click to Choose File",
+                "or": "or",
+                "dropHere": "Drag & Drop File here"
+            },
+            "error": {
+                "imageRequired": "Image is required"
+            },
+            "success": {
+                "instituteCreated": "Institute created Successfully"
+            }
+        }
+    },
+    "teacherOnBoarding": {
+        "basicDetails": {
+            "title": "Let us know about you",
+            "form": {
+                "label": {
+                    "name": "Your Name",
+                    "phone": "Contact no.",
+                    "website": "Website",
+                    "address": "Your Address",
+                    "city": "City",
+                    "state": "State",
+                    "pinCode": "Pin code"
+                },
+                "button": {
+                    "next": "Next"
+                },
+                "error": {
+                    "validPhone": "Enter a valid phone number",
+                    "validPinCode": "Enter a valid pin code"
+                },
+                "success": {
+                    "detailsAdded": "Basic Details added Successfully"
+                }
+            }
+        },
+        "courseDetails": {
+            "title": "Choose courses you teach",
+            "button": {
+                "next": "Next",
+                "back": "Back"
+            }
+        },
+        "subjectDetails": {
+            "title": "Choose subjects you teach",
+            "button": {
+                "next": "Submit",
+                "back": "Back"
+            }
+        }
+    },
+    "transactions": {
+        "title": "All Transactions",
+        "noInstitution": "No Transactions found .",
+        "oops": "Oops !",
+        "createdBy": "Students Name",
+        "price": "Price",
+        "institution": "Institution",
+        "slno": "Sl. No"
+    },
+    "all-exams": {
+        "examName": "Exam Name",
+        "course": "Course",
+        "date": "Date",
+        "time": "Time",
+        "totalMark": "Total Mark",
+        "batches": "Batches available",
+        "subject": "Subject",
+        "cancel": "Cancel",
+        "noBatch": "Np Batches found",
+        "addInstitute": "Add Batches",
+        "createExam": "Create Exam",
+        "type": "Type",
+        "filterHeading": "Filter by :",
+        "assignedTeacher": "Assigned Teacher",
+        "no of questions": "No. of Questions",
+        "edit": "Edit",
+        "noInstitutesFound": "No Institutions Found",
+        "addExams": "Add Exams",
+        "scheduleExam": "Schedule Exam",
+        "delete": "Delete",
+        "noExams": "No Exams Found",
+        "next": "Next",
+        "title": "All Completed Exams",
+        "schedule": "Schedule",
+        "selectGrade": "Grades",
+        "SelectOneType": "Select one type",
+        "TypeOfExam": "Type Of Exam",
+        "sl.no": "Sl.No",
+        "CreateExam": "Create Exam",
+        "CreateGrades": "Create Grades",
+        "scheduledFor": "Scheduled For",
+        "validate": {
+            "name": "Enter a name",
+            "course": "Enter a course",
+            "subject": "Enter a subject",
+            "description": "Enter a description",
+            "type": "Enter a type",
+            "institute": "Provide a institution",
+            "batches": "Provide a batch",
+            "validate": "Provide a time in minute",
+            "provideInstriction": "Provide Instructions"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForDelete": "Do you really want to delete this Exam?",
+            "messageForCancel": "Do you really want to cancel this Exam?",
+            "messageForDeleteofBatch": "Do you really want to delete this ?",
+            "okLebel": "Delete",
+            "options": "No, don't"
+        },
+        "successMessage":{
+            "canceledSuccessfully": "Canceled successfully",
+            "scheduled": "Scheduled successfully",
+            "deletedSuccessFully": "Delete successfully"
+        },
+        "error": {
+            "deleteError": "something went wrong"
+        },
+        "placeHolder": {
+            "search" : "Search Exams",
+            "nameLabel": "Exam Name",
+            "nameLabelForData": "Exam Data",
+            "nameLabelForTime": "Exam Time"
+        },
+        "tableHeadings": {
+            "batches" : "Batches",
+            "name": "Name",
+            "date": "Exam Data",
+            "time": "Exam Time"
+        }
+    },
+    "create-questions/[id]": {
+        "examName": "Exam Name",
+        "course": "Course",
+        "subject": "Subject",
+        "cancel": "Clear",
+        "editQuestion": "Edit Question",
+        "done": "Done",
+        "createExam": "Create Exam",
+        "type": "Type",
+        "assignedTeacher": "Assigned Teacher",
+        "no of questions": "No. of Questions",
+        "create": "Create",
+        "delete": "Delete",
+        "next": "Next",
+        "edit": "Update",
+        "title": "Add Questions",
+        "schedule": "Schedule",
+        "selectGrade": "Grades",
+        "SelectOneType": "Select one type",
+        "TypeOfExam": "Type Of Exam",
+        "CreateExam": "Create Exam",
+        "CreateGrades": "Create Grades",
+        "validate": {
+            "name": "Enter a name",
+            "course": "Enter a course",
+            "subject": "Enter a subject",
+            "description": "Enter a description",
+            "type": "Enter a type"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForDelete": "Do you really want to delete this Exam?",
+            "okLebel": "Delete",
+            "options": "No, don't"
+        },
+        "successMessage":{
+            "deletedSuccessFully": "deleted successfully"
+        },
+        "error": {
+            "deleteError": "something went wrong"
+        },
+        "placeHolder": {
+            "search" : "Search Exams",
+            "nameLabel": "Exam Name"
+        },
+        "messages": {
+            "questionsRequired" : "Provide a question",
+            "value": "Provide atleast two option",
+            "correctAnswer": "Provide the correct answer",
+            "mark": "Provide a mark"
+
+        }
+    },
+    "exams": {
+        "examName": "Exam Name",
+        "course": "Course",
+        "batches": "Batches available",
+        "subject": "Subject",
+        "cancel": "Cancel",
+        "noBatch": "Np Batches found",
+        "addInstitute": "Add Batches",
+        "createExam": "Create Exam",
+        "type": "Type",
+        "filterHeading": "Filter by :",
+        "assignedTeacher": "Assigned Teacher",
+        "no of questions": "No. of Questions",
+        "edit": "Edit",
+        "noInstitutesFound": "No Institutions Found",
+        "addExams": "Add Exams",
+        "scheduleExam": "Schedule Exam",
+        "delete": "Delete",
+        "noExams": "No Exams Found",
+        "next": "Next",
+        "title": "All Exams",
+        "schedule": "Schedule",
+        "selectGrade": "Grades",
+        "SelectOneType": "Select one type",
+        "TypeOfExam": "Type Of Exam",
+        "CreateExam": "Create Exam",
+        "CreateGrades": "Create Grades",
+        "scheduledFor": "Scheduled For",
+        "validate": {
+            "name": "Enter a name",
+            "course": "Enter a course",
+            "subject": "Enter a subject",
+            "description": "Enter a description",
+            "type": "Enter a type",
+            "institute": "Provide a institution",
+            "batches": "Provide a batch",
+            "validate": "Provide a time in minute",
+            "provideInstriction": "Provide Instructions"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForDelete": "Do you really want to delete this Exam?",
+            "messageForCancel": "Do you really want to cancel this Exam?",
+            "messageForDeleteofBatch": "Do you really want to delete this ?",
+            "okLebel": "Delete",
+            "options": "No, don't"
+        },
+        "successMessage":{
+            "canceledSuccessfully": "Canceled successfully",
+            "scheduled": "Scheduled successfully",
+            "deletedSuccessFully": "Delete successfully"
+        },
+        "error": {
+            "deleteError": "something went wrong"
+        },
+        "placeHolder": {
+            "search" : "Search Exams",
+            "nameLabel": "Exam Name",
+            "nameLabelForData": "Exam Data",
+            "nameLabelForTime": "Exam Time"
+        },
+        "tableHeadings": {
+            "batches" : "Batches",
+            "name": "Name",
+            "date": "Exam Data",
+            "time": "Exam Time"
+        }
+    },
+    "exams/[id]": {
+        "examName": "Exam Name",
+        "course": "Course",
+        "batches": "Batches available",
+        "subject": "Subject",
+        "cancel": "Cancel",
+        "noBatch": "No Batches found",
+        "addInstitute": "Add Batches",
+        "createExam": "Create Exam",
+        "type": "Type",
+        "filterHeading": "Filter by :",
+        "assignedTeacher": "Assigned Teacher",
+        "no of questions": "No. of Questions",
+        "edit": "Edit",
+        "noInstitutesFound": "No Institutions Found",
+        "addExams": "Add Exams",
+        "scheduleExam": "Schedule Exam",
+        "delete": "Delete",
+        "noExams": "No Exams Found",
+        "next": "Next",
+        "title": "All Exams",
+        "schedule": "Schedule",
+        "selectGrade": "Grades",
+        "SelectOneType": "Select one type",
+        "TypeOfExam": "Type Of Exam",
+        "CreateExam": "Create Exam",
+        "CreateGrades": "Create Grades",
+        "scheduledFor": "Scheduled For",
+        "validate": {
+            "name": "Enter a name",
+            "course": "Enter a course",
+            "subject": "Enter a subject",
+            "description": "Enter a description",
+            "type": "Enter a type",
+            "institute": "Provide a institution",
+            "batches": "Provide a batch",
+            "validate": "Provide a time in minute",
+            "provideInstriction": "Provide Instructions"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForDelete": "Do you really want to delete this Exam?",
+            "messageForCancel": "Do you really want to cancel this Exam?",
+            "messageForDeleteofBatch": "Do you really want to delete this ?",
+            "okLebel": "Delete",
+            "options": "No, don't"
+        },
+        "successMessage":{
+            "canceledSuccessfully": "Canceled successfully",
+            "scheduled": "Scheduled successfully",
+            "deletedSuccessFully": "Delete successfully"
+        },
+        "error": {
+            "deleteError": "something went wrong"
+        },
+        "placeHolder": {
+            "search" : "Search Exams",
+            "nameLabel": "Exam Name",
+            "nameLabelForData": "Exam Data",
+            "nameLabelForTime": "Exam Time"
+        },
+        "tableHeadings": {
+            "batches" : "Batches",
+            "name": "Name",
+            "date": "Exam Data",
+            "time": "Exam Time"
+        }
+    },
+    "institute/[id]": {
+        "name": "Name",
+        "phone": "Phone No",
+        "email": "Email",
+        "address": "Address",
+        "selectState": "Select State",
+        "selectCity": "Select City",
+        "edit_profile": "Edit Profile",
+        "contactDetails": "Contact Details",
+        "courses": "Courses",
+        "website": "Website",
+        "viewAll": "View All",
+        "pincode": "PinCode",
+        "next": "Next",
+        "visit_website": "Visit Website",
+        "loading": "Loading Institute Details",
+        "na": "N/A",
+        "enqueueSnackbar": {
+            "imageErrorMessage": "Image cannot be empty",
+            "editedSuccessFully": "Image edited successfully",
+            "editedSuccessFully2": "Details edited successfully",
+            "deleteError": "Some error occurred",
+            "editProfileName": "Enter image to edit",
+            "cancel": "Cancel",
+            "edit": "Edit",
+            "edit_profile": "Edit image"
+        },
+        "imageInputTitle": {
+            "chooseTexts": "Enter image to edit",
+            "edit": "Enter details to edit"
+        },
+        "successMessage": {
+            "editedSuccessFully": "Edited successfully"
+        },
+        "colorInputTitle": {
+            "chooseColor": "Choose a color "
+        },
+        "errorMessages": {
+            "nameErrorMessages": "Name cant be empty",
+            "emailErrorMessages": "Email can't be empty",
+            "emailErrorMessages1":"Enter a valid email",
+            "websiteErrorMessages": "Enter a website",
+            "phoneErrorMessages": "Phone number can't be empty",
+            "addressErrorMessages": "Address can't be empty",
+            "stateErrorMessages": "state can't be empty",
+            "cityErrorMessages": "city can't b empty",
+            "pincodeErrorMessage": "pin can't be empty"
+        },
+        "details": {
+            "loading": "Loading Institute Details",
+            "visitWebsite": "Visit website",
+            "editProfile": "Edit profile",
+            "contactDetails": "Contact Details",
+            "number": "Contact no",
+            "email": "Email",
+            "address": "Address",
+            "website": "Website",
+            "theme": "Theme",
+            "courses": "Courses",
+            "teachers": "Teachers",
+            "viewAll": "View All",
+            "appearance": "Appearance",
+            "viewTransactions": "View Transactions",
+            "viewDetails": "View details",
+            "batches": "Batches",
+            "students": "Students",
+            "classes": "Classes",
+            "price": "Price",
+            "noCourses": "No Courses added yet",
+            "addCourse": {
+                "title" :"Add courses",
+                "button": {
+                    "cancel": "Cancel",
+                    "add": "Add",
+                    "update": "Update"
+                },
+                "form": {
+                    "course": "Search Course",
+                    "price": "Price",
+                    "name": "Name",
+                    "minPrice": "Min price",
+                    "maxPrice": "Max price"
+                },
+                "validate": {
+                    "selectCourse": "Select a course",
+                    "enterPrice": "Enter a price",
+                    "enterValidPrice": "Enter a valid price",
+                    "validatePrice": "Price must be between minimum price and maximum price"
+                },
+                "success": {
+                    "createdSuccessfully": "Course added successfully",
+                    "deletedSuccessfully": "Course deleted successfully"
+                },
+                "confirm": {
+                    "title": "Are your sure?",
+                    "message": "Are to sure to remove the course from the institute",
+                    "remove": "Remove"
+                }
+            }
+
+        }
+    }
+
+
+}

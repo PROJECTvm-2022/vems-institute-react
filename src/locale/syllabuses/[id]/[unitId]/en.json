@@ -1,0 +1,39 @@
+{
+    "title": "All Units",
+    "units": "units",
+    "addButton": "Create Unit",
+    "searchPlaceholder": "Search unit by name",
+    "noUnits": "No Units",
+    "table": {
+        "heading": {
+            "snNo": "Sl. No",
+            "name": "Name",
+            "syllabus": "Syllabus",
+            "chapter": "Chapter",
+            "status": "Status"
+        }
+    },
+    "breadcrumbs": {
+        "allSyllabuses": "All Syllabuses"
+    },
+    "form": {
+        "field": {
+            "name": "Name"
+        },
+        "validate": {
+            "name": "Please Provide Unit Name"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForActive": "Do you want to active this Unit?",
+            "messageForDeactivate": "Do you want to deactivate this Unit?",
+            "okLebel": "Yes",
+            "options": "No, don't"
+        }
+    },
+    "success": {
+        "createdSuccessfully": "Created successfully",
+        "editedSuccessfully": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

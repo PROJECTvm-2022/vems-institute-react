@@ -1,0 +1,102 @@
+{
+    "name": "Name",
+    "phone": "Phone No",
+    "email": "Email",
+    "address": "Address",
+    "selectState": "Select State",
+    "selectCity": "Select City",
+    "edit_profile": "Edit Profile",
+    "contactDetails": "Contact Details",
+    "courses": "Courses",
+    "website": "Website",
+    "viewAll": "View All",
+    "pincode": "PinCode",
+    "next": "Next",
+    "visit_website": "Visit Website",
+    "loading": "Loading Institute Details",
+    "na": "N/A",
+    "enqueueSnackbar": {
+        "imageErrorMessage": "Image cannot be empty",
+        "editedSuccessFully": "Image edited successfully",
+        "editedSuccessFully2": "Details edited successfully",
+        "deleteError": "Some error occurred",
+        "editProfileName": "Enter image to edit",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "edit_profile": "Edit image"
+    },
+    "imageInputTitle": {
+        "chooseTexts": "Enter image to edit",
+        "edit": "Enter details to edit"
+    },
+    "successMessage": {
+        "editedSuccessFully": "Edited successfully"
+    },
+    "colorInputTitle": {
+        "chooseColor": "Choose a color "
+    },
+    "errorMessages": {
+        "nameErrorMessages": "Name cant be empty",
+        "emailErrorMessages": "Email can't be empty",
+        "emailErrorMessages1":"Enter a valid email",
+        "websiteErrorMessages": "Enter a website",
+        "phoneErrorMessages": "Phone number can't be empty",
+        "addressErrorMessages": "Address can't be empty",
+        "stateErrorMessages": "state can't be empty",
+        "cityErrorMessages": "city can't b empty",
+        "pincodeErrorMessage": "pin can't be empty"
+    },
+    "details": {
+        "loading": "Loading Institute Details",
+        "visitWebsite": "Visit website",
+        "editProfile": "Edit profile",
+        "contactDetails": "Contact Details",
+        "number": "Contact no",
+        "email": "Email",
+        "address": "Address",
+        "website": "Website",
+        "theme": "Theme",
+        "courses": "Courses",
+        "teachers": "Teachers",
+        "viewAll": "View All",
+        "appearance": "Appearance",
+        "viewTransactions": "View Transactions",
+        "viewDetails": "View details",
+        "batches": "Batches",
+        "students": "Students",
+        "classes": "Classes",
+        "price": "Price",
+        "noCourses": "No Courses added yet",
+        "addCourse": {
+            "title" :"Add courses",
+            "button": {
+                "cancel": "Cancel",
+                "add": "Add",
+                "update": "Update"
+            },
+            "form": {
+                "course": "Search Course",
+                "price": "Price",
+                "name": "Name",
+                "minPrice": "Min price",
+                "maxPrice": "Max price"
+            },
+            "validate": {
+                "selectCourse": "Select a course",
+                "enterPrice": "Enter a price",
+                "enterValidPrice": "Enter a valid price",
+                "validatePrice": "Price must be between minimum price and maximum price"
+            },
+            "success": {
+                "createdSuccessfully": "Course added successfully",
+                "deletedSuccessfully": "Course deleted successfully"
+            },
+            "confirm": {
+                "title": "Are your sure?",
+                "message": "Are to sure to remove the course from the institute",
+                "remove": "Remove"
+            }
+        }
+
+    }
+}

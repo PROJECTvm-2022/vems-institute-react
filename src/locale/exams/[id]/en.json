@@ -1,0 +1,68 @@
+{
+    "examName": "Exam Name",
+    "course": "Course",
+    "batches": "Batches available",
+    "subject": "Subject",
+    "cancel": "Cancel",
+    "noBatch": "No Batches found",
+    "addInstitute": "Add Batches",
+    "createExam": "Create Exam",
+    "type": "Type",
+    "filterHeading": "Filter by :",
+    "assignedTeacher": "Assigned Teacher",
+    "no of questions": "No. of Questions",
+    "edit": "Edit",
+    "noInstitutesFound": "No Institutions Found",
+    "addExams": "Add Exams",
+    "scheduleExam": "Schedule Exam",
+    "delete": "Delete",
+    "noExams": "No Exams Found",
+    "next": "Next",
+    "title": "All Exams",
+    "schedule": "Schedule",
+    "selectGrade": "Grades",
+    "SelectOneType": "Select one type",
+    "TypeOfExam": "Type Of Exam",
+    "CreateExam": "Create Exam",
+    "CreateGrades": "Create Grades",
+    "scheduledFor": "Scheduled For",
+    "validate": {
+        "name": "Enter a name",
+        "course": "Enter a course",
+        "subject": "Enter a subject",
+        "description": "Enter a description",
+        "type": "Enter a type",
+        "institute": "Provide a institution",
+        "batches": "Provide a batch",
+        "validate": "Provide a time in minute",
+        "provideInstriction": "Provide Instructions"
+    },
+    "confirmDialog": {
+        "titleForDelete": "Are you sure ?",
+        "messageForDelete": "Do you really want to delete this Exam?",
+        "messageForCancel": "Do you really want to cancel this Exam?",
+        "messageForDeleteofBatch": "Do you really want to delete this ?",
+        "okLebel": "Delete",
+        "options": "No, don't"
+    },
+    "successMessage":{
+        "canceledSuccessfully": "Canceled successfully",
+        "scheduled": "Scheduled successfully",
+        "deletedSuccessFully": "Delete successfully"
+    },
+    "error": {
+        "deleteError": "something went wrong"
+    },
+    "placeHolder": {
+        "search" : "Search Exams",
+        "nameLabel": "Exam Name",
+        "nameLabelForData": "Exam Data",
+        "nameLabelForTime": "Exam Time"
+    },
+    "tableHeadings": {
+        "batches" : "Batches",
+        "name": "Name",
+        "date": "Exam Data",
+        "time": "Exam Time"
+    }
+}

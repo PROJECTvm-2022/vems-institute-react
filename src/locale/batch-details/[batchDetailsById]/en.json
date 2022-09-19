@@ -1,0 +1,30 @@
+{
+    "titleOfExam": "All Exams",
+    "examName": "Exam Name",
+    "course": "Course",
+    "batches": "Batches available",
+    "no of questions": "No. of Questions",
+    "subject": "Subject",
+    "title": "All Schedule",
+    "button":"Add Schedule",
+    "noSchedule":"No live classes found",
+    "dialogTitle": "Take Attendance",
+    "button-cancel": "Cancel",
+    "dialogButton": "Submit Attendance",
+    "no_student": "No students Found",
+    "takeAttendance": "Attendance taken successfully",
+    "takeAttendanceButton":"Take Attendance",
+    "startClass":"Start Class",
+    "classesStarted":"Class started now u can take attendance",
+    "endClass":"End Class",
+    "classEnded": "Class ended successfully",
+    "joinClass": "Join Class",
+    "link": "Join Class",
+    "confirm": {
+        "title": "Are your sure?",
+        "message": "Do you want to start this class ?",
+        "messageToEnd": "Do you want to end this class ?",
+        "remove": "No",
+        "yes": "Yes"
+    }
+}

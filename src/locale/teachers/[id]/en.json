@@ -1,0 +1,103 @@
+{
+    "name": "Name",
+    "phone": "Phone No",
+    "email": "Email",
+    "address": "Address",
+    "edit_profile": "Edit Profile",
+    "contactDetails": "Contact Details",
+    "coursesTeach": "Courses Teach",
+    "courses": "Courses",
+    "viewAll": "View All",
+    "subjectsTeach": "Subjects Teach",
+    "loading": "Loading Teacher Details",
+    "na": "N/A",
+    "title": "Edit Image",
+    "cancel": "Cancel",
+    "upload": "Upload",
+    "next": "Edit",
+    "selectState": "Select state",
+    "selectCity": "Select city",
+    "details": {
+        "editProfile": "Edit Profile",
+        "loading": "Loading Teacher Details",
+        "contactDetails": "Contact Details",
+        "number": "Contact no",
+        "email": "Email",
+        "address": "Address",
+        "website": "Website",
+        "theme": "Theme",
+        "subjects": "Subjects",
+        "noSubjects": "No subjects assigned",
+        "course": "Course",
+        "viewAll": "View All",
+        "coursesTeach": "Courses Teach",
+        "coursesTeachEmpty": "No Courses Added",
+        "subjectsTeach": "Subjects Teach",
+        "subjectsTeachEmpty": "No Subjects Added",
+        "appearance": "Appearance",
+        "batches": "Batches",
+        "viewDetails": "View details",
+        "students": "Students",
+        "classes": "Classes",
+        "addSubject": {
+            "title" :"Add subject",
+            "button": {
+                "cancel": "cancel",
+                "add": "Add",
+                "next": "Next"
+            },
+            "form": {
+                "subjects": "Search syllabus"
+            },
+            "validate": {
+                "selectCourse": "Select a syllabus"
+            },
+            "success": {
+                "createdSuccessfully": "Subject added successfully",
+                "deletedSuccessfully": "Subject deleted successfully"
+            },
+            "confirm": {
+                "title": "Are your sure?",
+                "message": "Are to sure to remove the subject from the teacher",
+                "remove": "Remove"
+            }
+        }
+    },
+    "message": {
+        "deleteMessage": "Teacher Deleted successfully!",
+        "approvedMessage": "Teacher Approved successfully!",
+        "rejectMessage": "Teacher Rejected successfully!",
+        "teacherEditedMessage": "Teacher Edited successfully!"
+    },
+    "error": {
+        "deleteError": "Something went wrong!"
+    },
+    "imageInputTitle": {
+        "title": "Click or drag to upload your logo",
+        "chooseTexts": "Enter Details To Edit",
+        "chooseImage": "Enter Image To Edit"
+    },
+    "errorMessages": {
+        "nameErrorMessages": "Provide a name",
+        "emailErrorMessages": "Email must not be empty",
+        "emailErrorMessages1": "Provide a valid Email",
+        "passwordErrorMessage": "Password must not be empty",
+        "phoneErrorMessages": "Provide a phone no.",
+        "addressErrorMessages": "Provide a address",
+        "cityErrorMessages": "Provide a city",
+        "stateErrorMessages": "Provide a state",
+        "passwordErrorMessages": "Provide a password",
+        "pinErrorMessages": "Provide a valid pin"
+    },
+    "labels": {
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "phone": "Phone",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "pinCode": "PinCode",
+        "chooseInstitution": "Choose Institution"
+    }
+}

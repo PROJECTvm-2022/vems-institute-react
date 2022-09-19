@@ -1,0 +1,9 @@
+{
+    "title": {
+        "allCourses": "All Courses",
+        "mySubjects": "My Subjects"
+    },
+    "error": {
+        "noCourses": "No Courses"
+    }
+}

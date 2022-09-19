@@ -1,0 +1,42 @@
+{
+    "title": "All Topics",
+    "topics": "topics",
+    "addButton": "Create Topic",
+    "searchPlaceholder": "Search topic by name",
+    "allSyllabuses": "All Syllabuses",
+    "noTopics": "No Topics",
+    "table": {
+        "heading": {
+            "snNo": "Sl. No",
+            "name": "Name",
+            "unit": "Unit",
+            "syllabus": "Syllabus",
+            "topic": "Topic",
+            "status": "Status",
+            "chapter": "Chapter"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Create"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForActive": "Do you want to active this Topic?",
+            "messageForDeactivate": "Do you want to deactivate this Topic?",
+            "okLebel": "Yes",
+            "options": "No, don't"
+        },
+        "field": {
+            "name": "Name"
+        },
+        "validate": {
+            "name": "Please provide chapter Name"
+        }
+    },
+    "success": {
+        "createdSuccessfully": "Created successfully",
+        "editedSuccessfully": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Take Attendance",
+    "button":"Submit Attendance",
+    "noSchedule":"no schedule Classes found",
+    "batchDetails":"Batch Details",
+    "typography": {
+        "courses":"Courses:",
+        "specialization":"specialization:",
+        "currentSemester":"Semester"
+    }
+
+}

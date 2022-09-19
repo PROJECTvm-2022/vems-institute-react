@@ -1,0 +1,81 @@
+/*#zmmtg-root, .meeting-client, .meeting-client-inner {*/
+/*    width: 100% !important;*/
+/*    height: 90% !important;*/
+/*    position: relative !important;*/
+/*}*/
+/*.speaker-bar-container__horizontal-view-wrap {*/
+/*    display: none;*/
+/*}*/
+/*.join-dialog {*/
+/*    width: 100% !important;*/
+/*    height: 100% !important;*/
+/*    !*position: relative !important;*!*/
+/*}*/
+.footer-button__button {
+    color: rgba(255, 255, 255, 0.5);
+}
+/*.meeting-app {*/
+/*    z-index: 9000 !important;*/
+/*    width: 100% !important;*/
+/*    height: 100% !important;*/
+/*    position: relative !important;*/
+/*}*/
+/*#wc-loading {*/
+/*    z-index: 9000 !important;*/
+/*    width: 100% !important;*/
+/*    !*height: 100% !important;*!*/
+/*    position: relative !important;*/
+/*}*/
+/*.gallery-video-container__wrap {*/
+/*    width: 100% !important;*/
+/*    !*height: 100% !important;*!*/
+/*    position: relative !important;*/
+/*}*/
+
+/*.gallery-video-container__main-view {*/
+/*    width: 100% !important;*/
+/*    height: 100% !important;*/
+/*    position: relative !important;*/
+/*}*/
+/*.video-avatar__avatar {*/
+/*    width: 100% !important;*/
+/*    height: 100% !important;*/
+/*    position: relative !important;*/
+/*}*/
+
+/*.gallery-video-container__video-frame {*/
+/*    width: 100% !important;*/
+/*}*/
+
+/*#wc-footer {*/
+/*    bottom: 0 !important;*/
+/*    width: 100%  !important;*/
+/*    position: relative !important;*/
+/*}*/
+
+/*!*#dialog-join {*!*/
+/*!*    width: 100%  !important;*!*/
+/*!*    position: relative !important;*!*/
+/*!*}*!*/
+
+/*!*#sv-active-video, .active-main, #sv-active-speaker-view {*!*/
+/*!*    height: 500px !important;*!*/
+/*!*    width: 700px !important;*!*/
+/*!*    position: relative !important;*!*/
+/*!*    display: flex !important;*!*/
+/*!*}*!*/
+/*.main-layout {*/
+    /*height: 700px !important;*/
+    /*width: 700px !important;*/
+    /*position: relative !important;*/
+    /*display: flex !important;*/
+/*}*/
+/**/
+/*.suspension-window {*/
+/*    !*transform: translate(-444px, 10px) !important;*!*/
+/*    position: relative !important;*/
+/*}*/
+
+/*#dialog-invite {*/
+/*    !*display: none !important;*!*/
+/*}*/

@@ -1,0 +1,82 @@
+{
+    "stepper": {
+        "basicDetails": "Basic Details",
+        "chooseInstitute": "Choose Institute",
+        "chooseSubject": "Choose Course",
+        "chooseSpecialization": "Choose Specialization"
+    },
+    "basicDetails": {
+        "title": "Let us know about you",
+        "form": {
+            "label": {
+                "name": "Your name",
+                "email": "Your email",
+                "contactNo": "Contact no.",
+                "address": "Address",
+                "city": "City",
+                "state": "State",
+                "pinCode": "Pin code"
+            },
+            "button": {
+                "next": "Next"
+            },
+            "error": {
+                "validEmail": "Enter a valid email ID",
+                "checkEmail": "Enter a registered Email ID",
+                "validPhone": "Enter a valid phone number",
+                "validPinCode": "Enter a valid pin code"
+            },
+            "success": {
+                "detailsAdded": "Basic Details added Successfully"
+            }
+        }
+    },
+    "chooseInstitute": {
+        "title": "Choose Institute",
+        "form": {
+            "searchInstitute": "Search for institutes",
+            "noInstitute": "No institute found",
+            "enterInstitute": "Enter institute name"
+        },
+        "error": {
+            "selectInstitute": "Select an institute"
+        },
+        "success": {
+            "instituteSelected": "Institute selected successfully"
+        },
+        "button": {
+            "next": "Next"
+        }
+    },
+    "chooseCourse": {
+        "title": "Choose courses",
+        "button": {
+            "next": "Next"
+        },
+        "success": {
+            "courseAdded": "Courses added successfully"
+        },
+        "error": {
+            "courseRequired": "Please select one course"
+        },
+        "form": {
+            "search": "Search courses"
+        }
+    },
+    "chooseSpecialization": {
+        "title": "Choose Specialization",
+        "button": {
+            "next": "Next"
+        },
+        "success": {
+            "specializationAdded": "Specialization added successfully",
+            "courseAdded": "Course added successfully"
+        },
+        "error": {
+            "courseRequired": "Please select at least one specialization"
+        },
+        "form": {
+            "search": "Search specialization"
+        }
+    }
+}

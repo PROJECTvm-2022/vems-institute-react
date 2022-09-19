@@ -1,0 +1,32 @@
+{
+    "title": "Forgot Password",
+    "sendOtpText": "OTP has been sent to your email ",
+    "sendOtpTo": "Enter email to reset password",
+    "description": "Once the Email is verified you will be able to continue further and add some additional details.",
+    "enterNewPasswordToReset": "Enter new password to reset password",
+    "form": {
+        "label": {
+            "email": "Enter email",
+            "newPassword": "Enter newPassword",
+            "reEnterNewPassword": "Re enter newPassword"
+        },
+        "button": {
+            "sendOtp": "Send Otp to Registered Email",
+            "verifyOtp": "Verify Otp",
+            "resend": "Resend",
+            "resetPassword":"Reset Password"
+        },
+        "error": {
+            "validEmail": "Enter a valid email",
+            "validOtp": "Enter a valid OTP",
+            "checkEmail": "Please enter the registered email Id",
+            "newPassword": "Enter a new password to reset",
+            "resetNewPassword": "Enter a valid password"
+        },
+        "success": {
+            "otpSentSuccessfully": "OTP sent successfully",
+            "successfullyVerified": "Email verified successfully",
+            "passwordRestSuccessfully": "Pasword reset successfully"
+        }
+    }
+}

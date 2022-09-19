@@ -1,0 +1,23 @@
+{
+    "title": "Time Tables",
+    "buttons": {
+        "create": "Create Time Table",
+        "cancel": "Cancel",
+        "submit": "Create"
+    },
+    "labels": {
+        "batch": "Batch",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "maxClasses": "Max Number of classes",
+        "minimumClassDuration": "Minimum Class Duration - Min(s)",
+        "minimumDurationAttendance": "Minimum Duration Attendance - Min(s)"
+    },
+    "errors": {
+        "select": {
+            "course": "Please select a course",
+            "specialization": "Please select a specialization",
+            "semester": "Please select a semester"
+        }
+    }
+}

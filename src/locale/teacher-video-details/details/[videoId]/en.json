@@ -1,0 +1,53 @@
+{
+    "title": "Video Lectures",
+    "selectSyllabus": "Select a syllabus",
+    "tabs": {
+        "questions": "Questions",
+        "comments": "Comments"
+    },
+    "labels": {
+        "active": "Active",
+        "views": "Views",
+        "name": "Name",
+        "edit": "Edit",
+        "delete": "Delete",
+        "done": "Done",
+        "viewReplay": "View Replies",
+        "hideReplay": "Hide Replies"
+    },
+    "question": {
+        "form": {
+            "create": "Create New Question",
+            "question": "Question",
+            "answerType": "Answer Type",
+            "multiple": "Multiple",
+            "subjective": "Subjective",
+            "createButton": "Create",
+            "addChoice": "Add Option",
+            "option": "Option",
+            "options": "Options",
+            "removeOption": "Remove",
+            "isCorrect": "is correct option",
+            "correct": "Correct",
+            "update": "Update",
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDeactivate": "Do you really want to delete this Video?",
+                "okLebel": "Yes",
+                "options": "No, don't"
+            },
+            "confirmDialog1": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDeactivate": "Do you really want to deactive this Video?",
+                "messageForActivate": "Do you really want to active this Video?",
+                "okLebel": "Yes",
+                "options": "No, don't"
+            }
+        }
+    },
+    "messages": {
+        "noQuestions": "No Questions",
+        "noComments": "No Comments",
+        "noReplay": "No Replies"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "title": "All Courses",
+    "button": "Add Courses",
+    "course": "Course",
+    "minPrice": "Min price",
+    "maxPrice": "Max price",
+    "name": "Name",
+    "noCourses": "No Courses Available",
+    "addCourse": {
+        "title": "Add Course",
+        "course": "Search Course",
+        "add": "Add"
+    },
+    "seat_acquired": "Seats Acquired",
+    "specialization": "Specialization",
+    "semester": "Semester",
+    "add": "Add Batch",
+    "cancel": "Cancel",
+    "select_course": "Select Course",
+    "select_specialization": "Select Specialization",
+    "select_semester": "Select Semester",
+    "start_error": "Please enter a valid start year",
+    "end_error": "Please enter a valid end year",
+    "seat_count": "Total Seats",
+    "start": "Start Year",
+    "priceOf": "Price Of",
+    "priceList": "Price List",
+    "year": "Year",
+    "price": "Price",
+    "end": "End Year",
+    "all_batch": "All Batch",
+    "no_student": "No Batches Added",
+    "view_price": "View Price",
+    "courseError": "Course is required!",
+    "specializationError": "Specialization is required!",
+    "semesterError": "Semester is required!",
+    "seatError": "Seat is required!",
+    "priceError": "All Prices are required and Price cannot be 0!",
+    "na": "N/A",
+    "details": {
+        "loading": "Loading Institute Details",
+        "visitWebsite": "Visit website",
+        "editProfile": "Edit profile",
+        "contactDetails": "Contact Details",
+        "number": "Contact no",
+        "email": "Email",
+        "address": "Address",
+        "website": "Website",
+        "theme": "Theme",
+        "courses": "Courses",
+        "teachers": "Teachers",
+        "viewAll": "View All",
+        "appearance": "Appearance",
+        "viewTransactions": "View Transactions",
+        "viewDetails": "View details",
+        "batches": "Batches",
+        "students": "Students",
+        "classes": "Classes",
+        "price": "Price",
+        "priceYouGet": "You get",
+        "noCourses": "No Courses added yet",
+        "addCourse": {
+            "title" :"Add courses",
+            "button": {
+                "cancel": "Cancel",
+                "add": "Add"
+            },
+            "form": {
+                "course": "Search Course",
+                "price": "Price",
+                "name": "Name",
+                "minPrice": "Min price",
+                "maxPrice": "Max price"
+            },
+            "validate": {
+                "selectCourse": "Select a course",
+                "enterPrice": "Enter a price",
+                "enterValidPrice": "Enter a valid price",
+                "validatePrice": "Price must be between minimum price and maximum price"
+            },
+            "success": {
+                "createdSuccessfully": "Course added successfully",
+                "editedSuccessfully": "Course edited successfully",
+                "deletedSuccessfully": "Course deleted successfully"
+            },
+            "confirm": {
+                "title": "Are your sure?",
+                "message": "Are to sure to remove the course from the institute",
+                "remove": "Remove"
+            }
+        }
+
+    }
+}

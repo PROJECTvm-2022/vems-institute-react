@@ -1,0 +1,42 @@
+{
+    "title": "All Syllabuses",
+    "addButton": "Create Syllabus",
+    "searchPlaceholder": "Search syllabus by name",
+    "form": {
+        "textField": {
+            "name": "Name",
+            "courses": "Course",
+            "subjects": "Subject",
+            "semesters": "Semesters",
+            "specializations": "specializations",
+            "institute": "Franchise",
+            "publishYear": "Publish Year"
+        },
+        "validate": {
+            "name": "Please provide a name",
+            "subject": "Please select a subject",
+            "course": "Please select a course",
+            "semester": "Please select a semester",
+            "institute": "Please select a institute",
+            "publishYear": "Please provide publish year",
+            "validPublishYear": "Please provide valid publish year"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForActive": "Do you want to active this Syllabus?",
+            "messageForDeactivate": "Do you want to deactivate this Syllabus?",
+            "okLebel": "Yes",
+            "options": "No, don't"
+        },
+        "confirm": {
+            "delete": "Do you really want to delete the Syllabus ?"
+        },
+        "Heading": {
+            "status": "Status"
+        }
+    },
+    "success": {
+        "editedSuccess": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

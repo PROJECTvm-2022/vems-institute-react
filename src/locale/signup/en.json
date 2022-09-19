@@ -1,0 +1,24 @@
+{
+    "title": "Student Sign up",
+    "description": "Please register only if you are a Student. Else you can contact the Institute.",
+    "haveAnAccount": "Have an account?",
+    "form": {
+        "label": {
+            "name": "Name",
+            "email": "Email ID",
+            "password": "Password"
+        },
+        "button": {
+            "signUp": "Sign up",
+            "loginHere": "Login here",
+            "newUser": "Are you a Student? Register here."
+        },
+        "success": {
+            "userCreated": "User created successfully"
+        },
+        "error": {
+            "validEmail": "Enter a valid email",
+            "validPassword": "Password must be of 8 digits. Should contain alphabets & numbers and should contain at least 1 uppercase alphabet"
+        }
+    }
+}

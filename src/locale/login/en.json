@@ -1,0 +1,22 @@
+{
+    "pageTitle": "Login - Jupion Classes",
+    "title": "Login",
+    "description": "Sign in to your account",
+    "or": "Or",
+    "form": {
+        "label": {
+            "email": "Email ID",
+            "password": "Password"
+        },
+        "button": {
+            "signIn": "Sign In",
+            "register": "Create Account",
+            "forgetPassword": "Forget Password?",
+            "newUser": "Are you a Student? Register here.",
+            "googleSign": "Sign in with Google"
+        },
+        "error": {
+            "validEmail": "Enter a valid email"
+        }
+    }
+}

@@ -1,0 +1,751 @@
+{
+    "defaultPageTitle": "Jupion Classes",
+    "errors": {
+        "500": "Something went wrong!"
+    },
+    "appbar": {
+        "logout": "Log out"
+    },
+    "autocomplete": {
+        "institute": {
+            "label": "Institute",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "course": {
+            "label": "Course",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "specialization": {
+            "label": "Specialization",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "semester": {
+            "label": "Semester",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "unit": {
+            "label": "Unit",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "chapter": {
+            "label": "Chapter",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "subject": {
+            "label": "Subject",
+            "placeholder": "Start typing to see suggestions"
+        },
+        "teacher": {
+            "label": "Assign Teacher(Optional)",
+            "placeholder": "Start typing to see suggestions"
+        }
+    },
+    "edit": "Edit",
+    "delete": "Delete",
+    "done": "Done",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "view": "View",
+    "nameLabel": "Name",
+    "common": {
+        "confirm": {
+            "yes": "Yes",
+            "cancel": "Cancel",
+            "default": "Are you sure?",
+            "delete": "Are you sure to delete?"
+        }
+    },
+    "specialization": {
+        "title": "All Specialization",
+        "addButton": "Create Specialization",
+        "searchPlaceholder": "search Specialization",
+        "form": {
+            "validate": {
+                "name": "Please Provide Specialization Name",
+                "shortName": "Please Provide Short Name"
+            },
+            "confirm": {
+                "delete": "Are you sure to delete?"
+            }
+        },
+        "success": {
+            "editedSuccess": "Edited Successfully",
+            "deletedSuccessfully": "Deleted Successfully"
+        }
+    },
+    "tableHeading": {
+        "serialNumber": "Sl No.",
+        "name": "Name",
+        "shortName": "Short Name",
+        "course": "Course",
+        "specialization": "Specialization",
+        "specializations": "Specializations",
+        "status": "Status",
+        "institute" : "Institute",
+        "institutes" : "Institutes",
+        "syllabus": "Syllabus",
+        "subject": "Subject",
+        "semester": "Semester",
+        "logo": "Logo",
+        "units": "Units",
+        "unit": "Unit",
+        "chapters": "Chapters",
+        "chapter": "Chapter",
+        "topics": "Topics",
+        "topic": "Topic",
+        "publishYear": "Publish Year",
+        "noCourses": "No courses found",
+        "noSubjects": "No Subjects Found",
+        "noSemesters": "No Semesters Found",
+        "noSpecializations": "No Specializations Found",
+        "noSyllabuses": "No Syllabuses Found",
+        "noUnits": "No Units Found",
+        "noChapters": "No Chapters Found",
+        "noTopics": "No Topics Found"
+    },
+    "snackbarMessages": {
+        "somethingWentWrong": "Something went wrong",
+        "createCourseSuccess": "Course created successfully",
+        "createSubjectSuccess": "Subject Created Successfully",
+        "createSemesterSuccess": "Semester Created Successfully",
+        "createSyllabusSuccess": "Syllabus Created Successfully",
+        "createUnitSuccess": "Unit Created Successfully",
+        "createChapterSuccess": "Chapter Created Successfully",
+        "createTopicSuccess": "Topic Created Successfully",
+        "createSpecializationSuccess": "Specialization Created Successfully",
+        "createdSuccess": "Created successfully"
+    },
+    "institute": {
+        "title": "Institutes",
+        "form": {
+            "button": {
+                "addInstitute": "+ Add Institute",
+                "viewProfile": "View Profile",
+                "next": "Save",
+                "cancel": "Cancel",
+                "upload": "Upload",
+                "switch": "Switch To",
+                "update": "Save",
+                "clear": "Clear"
+            },
+            "label": {
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "email": "Email",
+                "phoneNumber": "Phone Number",
+                "password": "Password"
+            },
+            "placeHolder": {
+                "inputBase": "Search Institute",
+                "textPlace": "Search For Courses"
+            },
+            "headings": {
+                "filterHeading": "Filter by"
+            },
+            "errors": {
+                "noInstitution": "No Institution found for this criteria. Search something else or change the filter.",
+                "oops": "Oops !"
+            },
+            "tableHeadings": {
+                "color": "Color",
+                "institutionLogo": "Institute logo",
+                "institutionName": "Institute name",
+                "Number": "Number",
+                "Email": "Franchise email",
+                "Address": "Address",
+                "Stats": "Stats",
+                "Actions": "Actions"
+            },
+            "cardMenuItems": {
+                "updateMenu": "Update",
+                "terminateMenu": "Terminate",
+                "colorEditMenu": "Edit ThemeColor"
+            },
+            "successMessage": {
+                "deletedSuccessFully": "Deleted successfully!",
+                "editedSuccessFully": "Edited successfully!",
+                "createdSuccessFully": "Created successfully!",
+                "userCreatedSuccessFully": " User created successfully!",
+                "institutionCreatedSuccessFully": " Institution created successfully!"
+            },
+            "formControl": {
+                "course": "Course",
+                "state": "State",
+                "city": "City"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this Institute?",
+                "messageForApprove": "Do you really want to approve this Institute?",
+                "messageForReject": "Do you really want to approve this Student?",
+                "okLebel": "Delete",
+                "options": "No, don't"
+            },
+            "variants": {
+                "variant": "success",
+                "variantError": "error"
+            },
+            "error": {
+                "deleteError": "Something went wrong!"
+            },
+            "stepperTitles": {
+                "firstStep": "Enter email and password to continue",
+                "secondStep": "Enter franchise details to continue",
+                "thirdStep": "Choose courses for the Franchise",
+                "fourthStep": " Click or drag here to upload your logo",
+                "fifthStep": "Manage look & feel"
+            },
+            "stepperHeadings": {
+                "firstStep": "Create user",
+                "secondStep": "Basic details",
+                "thirdStep": "Courses",
+                "fourthStep": "Design",
+                "fifthStep": "Design"
+            },
+            "errorMessages": {
+                "nameErrorMessages": "Provide a name",
+                "emailErrorMessages": "Email must not be empty",
+                "emailErrorMessages1": "Provide a valid Email",
+                "passwordErrorMessage": "Password must not be empty",
+                "passwordErrorMessageValidate": "Password must be 8 char and at least one number with one special character",
+                "phoneErrorMessages": "Provide a phone no.",
+                "phoneErrorMessagesValidate": "Provide a valid phone no.",
+                "addressErrorMessages": "Provide a address",
+                "cityErrorMessages": "Provide a city",
+                "stateErrorMessages": "Provide a state",
+                "websiteErrorMessages": "Provide a website",
+                "websiteErrorMessagesValidate": "Provide a valid website",
+                "pinErrorMessage": "Provide a pin code",
+                "pinErrorMessageValid": "Provide a pin code of 4 digit or 6 digit",
+                "imageErrorMessage": "Provide an image",
+                "priceErrorMessage": "Provide an price",
+                "courseErrorMessage" : "Select at least one Course"
+            },
+            "labels": {
+                "name": "Name",
+                "email": "Email",
+                "password": "Password",
+                "institutionName": "Institute Name",
+                "institutionEmail": "Institute Email",
+                "phone": "Phone",
+                "address": "Address",
+                "website": "Website",
+                "city": "City",
+                "state": "State",
+                "pincode": "Pincode",
+                "price": "Price"
+
+            },
+            "title": {
+                "titleToSelectTheme": "Select Theme",
+                "forColor": "Choose a color"
+            },
+            "stepperTitleForEditInst": {
+                "firstStep": "Edit Franchise",
+                "secondStep": "Enter photo and color to edit"
+            },
+            "stepperHeadingsForEdit": {
+                "firstStep": "Details",
+                "secondStep": "Photo and colors"
+            },
+            "imageInputTitle": {
+                "title": "Click to upload your logo",
+                "chooseImage": "Choose Image To Edit",
+                "chooseColor": "Choose Franchise Theme Color",
+                "chooseTexts": "Enter Details To Edit"
+            },
+            "menuItem": {
+                "selectState": "Select state",
+                "selectCity": "Select city",
+                "approve": "Approve",
+                "reject": "Reject"
+            }
+        },
+        "details": {
+            "loading": "Loading franchise Details",
+            "visitWebsite": "Visit Website",
+            "editProfile": "Edit Details",
+            "contactDetails": "Contact Details",
+            "number": "Contact no.",
+            "email": "Email",
+            "address": "Address",
+            "website": "Website",
+            "theme": "Theme",
+            "courses": "Courses",
+            "teachers": "Teachers",
+            "viewAll": "View all",
+            "appearance": "Appearance",
+            "viewTransactions": "View Transactions",
+            "viewDetails": "View Details",
+            "batches": "Batches",
+            "students": "Students",
+            "classes": "Classes",
+            "price": "Price",
+            "noCourses": "No courses added yet",
+            "addCourse": {
+                "title" :"Add Course",
+                "button": {
+                    "cancel": "Cancel",
+                    "add": "Add"
+                },
+                "form": {
+                    "course": "Search Course",
+                    "price": "Price",
+                    "name": "Name",
+                    "minPrice": "Min price",
+                    "maxPrice": "Max price"
+                },
+                "validate": {
+                    "selectCourse": "Select a course",
+                    "enterPrice": "Enter a price",
+                    "enterValidPrice": "Enter a valid price",
+                    "validatePrice": "Price must be between minimum price and maximum price"
+                },
+                "success": {
+                    "createdSuccessfully": "Course added successfully",
+                    "deletedSuccessfully": "Course deleted successfully"
+                },
+                "confirm": {
+                    "title": "Are your sure?",
+                    "message": "Are to sure to remove the course from the franchise",
+                    "remove": "Remove"
+                }
+            }
+
+        }
+    },
+    "teacher": {
+        "title": "All Teachers",
+        "details": {
+            "loading": "Loading Teacher Details",
+            "contactDetails": "Contact Details",
+            "number": "Contact no",
+            "email": "Email",
+            "viewClasses": "View Classes",
+            "address": "Address",
+            "website": "Website",
+            "theme": "Theme",
+            "subjects": "Subjects",
+            "noSubjects": "No subjects assigned",
+            "course": "Course",
+            "viewAll": "View all",
+            "coursesTeach": "Courses Teach",
+            "coursesTeachEmpty": "No Courses Added",
+            "subjectsTeach": "Subjects Teach",
+            "subjectsTeachEmpty": "No Subjects Added",
+            "appearance": "Appearance",
+            "editProfile": "Edit",
+            "addSubject": {
+                "title" :"Add subject",
+                "button": {
+                    "cancel": "Cancel",
+                    "add": "Add"
+                },
+                "form": {
+                    "subjects": "Search syllabus"
+                },
+                "validate": {
+                    "selectCourse": "Select a syllabus"
+                },
+                "success": {
+                    "createdSuccessfully": "Subject added successfully",
+                    "deletedSuccessfully": "Subject deleted successfully"
+                },
+                "confirm": {
+                    "title": "Are your sure?",
+                    "message": "Are to sure to remove the subject from the teacher",
+                    "remove": "Remove"
+                }
+            }
+        },
+        "form": {
+            "button": {
+                "addTeacher": "+ Add Teacher",
+                "viewProfile": "View Profile",
+                "approve": "Approve",
+                "reject": "Reject",
+                "next": "Next",
+                "cancel": "Cancel",
+                "upload": "Save"
+            },
+            "placeHolder": {
+                "inputBase": "Search Teachers",
+                "textPlace": "Search For Courses",
+                "textPlace1": "Search For Subjects"
+            },
+            "headings": {
+                "filterHeading": "Filter By"
+            },
+            "errors": {
+                "noTeacher": "No Teacher found",
+                "selectCourse": "Please Select a course to continue",
+                "selectSubject": "Please Select a subject to continue"
+            },
+            "tableHeadings": {
+                "image": "Image",
+                "employeeId": "Employee Id",
+                "name": "Name",
+                "email": "Email",
+                "number": "Number",
+                "address": "Address",
+                "associatedWith": "Associated with",
+                "expertIn": "Expert in",
+                "actions": "Actions"
+            },
+            "cardMenuItems": {
+                "updateMenu": "Update",
+                "terminateMenu": "Terminate",
+                "colorEditMenu": "Edit ThemeColor"
+            },
+            "successMessage": {
+                "deletedSuccessFully": "Deleted successfully!",
+                "teacherCreatedMessage": "Teacher created successfully"
+            },
+            "menuItem": {
+                "all": "All",
+                "approvedTeacher": "Approved Teacher",
+                "unapprovedTeacher": "Unapproved Teacher",
+                "courses": "Courses",
+                "subject": "Subject",
+                "approve": "Approve",
+                "reject": "Reject"
+            },
+            "message": {
+                "deleteMessage": "Teacher deleted successfully!",
+                "approvedMessage": "Teacher approved successfully!",
+                "rejectMessage": "Teacher rejected successfully!",
+                "teacherEditedMessage": "Teacher edited successfully!"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this Teacher?",
+                "messageForApprove": "Do you really want to approve this Teacher?",
+                "messageForReject": "Do you really want to reject this Teacher?",
+                "okLebel": "Delete",
+                "okLebel1": "Approve",
+                "okLebel2": "Reject",
+                "options": "No, don't"
+            },
+            "variants": {
+                "variant": "success",
+                "variantError": "error"
+            },
+            "error": {
+                "deleteError": "Something went wrong!"
+            },
+            "stepperTitles": {
+                "firstStep": "Enter following details to create teacher ",
+                "editTeacher": "Edit Teacher "
+            },
+            "stepperHeadings": {
+                "firstStep": "Create teacher"
+            },
+            "errorMessages": {
+                "nameErrorMessages": "Provide a name",
+                "emailErrorMessages": "Email must not be empty",
+                "emailErrorMessages1": "Provide a valid Email",
+                "passwordErrorMessage": "Password must not be empty",
+                "phoneErrorMessages": "Provide a phone no.",
+                "addressErrorMessages": "Provide a address",
+                "cityErrorMessages": "Provide a city",
+                "stateErrorMessages": "Provide a state",
+                "passwordErrorMessages": "Provide a password",
+                "pinErrorMessages": "Provide a valid pin"
+            },
+            "labels": {
+                "name": "Name",
+                "email": "Email",
+                "password": "Password",
+                "phone": "Phone",
+                "address": "Address",
+                "city": "City",
+                "state": "State",
+                "pinCode": "Pincode",
+                "chooseInstitution": "Choose Franchise"
+            },
+            "imageInputTitle": {
+                "title": "Click to upload your logo",
+                "chooseTexts": "Enter Details To Edit",
+                "chooseImage": "Enter Image To Edit"
+            },
+            "stepperTitleForEditInst": {
+                "firstStep": "Enter details to edit",
+                "secondStep": "Enter photo to edit"
+            },
+            "stepperHeadingsForEdit": {
+                "firstStep": "Details",
+                "secondStep": "Photo"
+            }
+        }
+    },
+    "student": {
+        "details": {
+            "loading": "Loading Student Details",
+            "contactDetails": "Contact Details",
+            "number": "Contact no.",
+            "email": "Email",
+            "address": "Address",
+            "website": "Website",
+            "syllabus": "Syllabus"
+        },
+        "title": "All Students",
+        "form": {
+            "button": {
+                "unApprovedTeacher": "UnApproved Teachers",
+                "viewProfile": "View Profile",
+                "next": "next",
+                "cancel": "Cancel",
+                "upload": "Upload",
+                "viewClasses": "View Classes"
+            },
+            "placeHolder": {
+                "inputBase": "Search Students"
+            },
+            "headings": {
+                "filterHeading": "Filter By"
+            },
+            "errors": {
+                "noTeacher": "No student found"
+            },
+            "tableHeadings": {
+                "image": "Image",
+                "employeeId": "Employee Id",
+                "name": "Name",
+                "email": "Email",
+                "number": "Number",
+                "address": "Address",
+                "associatedWith": "Associated with",
+                "expertIn": "Expert in",
+                "actions": "Actions"
+            },
+            "cardMenuItems": {
+                "updateMenu": "Update",
+                "terminateMenu": "Terminate"
+            },
+            "message": {
+                "deletedSuccessFully": "Student deleted successfully!",
+                "rejectMessage": "Student rejected successfully",
+                "approvedMessage": "Student approved successfully",
+                "studentEditedMessage": "Student edited Successfully"
+            },
+            "menuItem": {
+                "State": "State",
+                "approve": "Approve",
+                "reject": "Reject",
+                "all": "All",
+                "approvedStudent": "Approved Student",
+                "unapprovedStudent": "Un-Approved Student"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this student?",
+                "messageForApprove": "Do you really want to approve this student?",
+                "messageForReject": "Do you really want to reject this student?",
+                "okLebel": "Delete",
+                "okLebel1": "Approve",
+                "okLebel2": "Reject",
+                "options": "No, don't"
+            },
+            "variants": {
+                "variant": "success",
+                "variantError": "error"
+            },
+            "stepperTitleForEdit": {
+                "firstStep": "Enter details to edit",
+                "secondStep": "Enter photo to edit"
+            },
+            "stepperHeadingsForEdit": {
+                "firstStep": "Details",
+                "secondStep": "Photo"
+            },
+            "errorMessages": {
+                "nameErrorMessages": "Provide a name",
+                "emailErrorMessages": "Email must not be empty",
+                "emailErrorMessages1": "Provide a valid Email",
+                "passwordErrorMessage": "Password must not be empty",
+                "phoneErrorMessages": "Provide a phone no.",
+                "addressErrorMessages": "Provide a address",
+                "cityErrorMessages": "Provide a city",
+                "stateErrorMessages": "Provide a state",
+                "passwordErrorMessages": "Provide a password",
+                "pincodeErrorMessages": "Provide a pincode"
+            },
+            "labels": {
+                "name": "Name",
+                "email": "Email",
+                "password": "Password",
+                "phone": "Phone",
+                "address": "Address",
+                "city": "City",
+                "state": "State",
+                "pinCode": "PinCode",
+                "chooseInstitution": "Choose Franchise"
+            },
+            "imageInputTitle": {
+                "chooseImage": "Enter Image To Edit",
+                "title": "Click to upload your logo"
+            },
+            "error": {
+                "deleteError": "Something went wrong!"
+            },"successMessage": {
+                "studentEditedMessage": "Student edited successfully"
+            }
+        }
+    },
+    "videoLectures": {
+        "selectCourse": "Select course",
+        "createLecture": "Create a Lecture/Exam"
+    },
+    "state": {
+        "title": "All State",
+        "search": "Enter Name to Search",
+        "form": {
+            "button": {
+                "addState": "Add State",
+                "add":"Add",
+                "save": "Save",
+                "cancel":"cancel",
+                "editState": "Edit State",
+                "delete": "Delete",
+                "edit": "Edit",
+                "viewCity": "View Cities"
+            },
+            "errors":{
+                "provideName": "Please provide a name",
+                "noStatesFound": "No states available",
+                "deleteError": "Something went wrong!"
+            },
+            "tableHeadings": {
+                "slNo": "Sl. No.",
+                "name": "Name",
+                "action": "Actions",
+                "status":"Status"
+            },
+            "labels": {
+                "name": "Name",
+                "view": "View Cities"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure?",
+                "messageForDelete": "Do you really want to delete this state?",
+                "messageToChangeStatus": "Do you really want to change the status?",
+                "okLebel": "Delete",
+                "options": "No, don't",
+                "okLebelForState": "Yes",
+                "optionsForState": "No"
+            },
+            "message": {
+                "deletedSuccessFully": "State deleted successfully!",
+                "editedSuccessFully": "State edited successfully!",
+                "addedSuccessFully": "State added successfully!"
+            }
+        }
+    },
+    "city": {
+        "title": "All Cities of",
+        "form": {
+            "button": {
+                "addState": "Add a City",
+                "add":"Add",
+                "editCity": "Edit city",
+                "cancel":"cancel",
+                "delete": "Delete",
+                "edit": "Edit"
+            },
+            "errors":{
+                "provideName": "PLease provide a name",
+                "noStatesFound": "No cities available",
+                "deleteError": "Something went wrong!"
+            },
+            "tableHeadings": {
+                "slNo": "Sl. No",
+                "name": "Name",
+                "action": "Actions",
+                "status":"Status"
+            },
+            "labels": {
+                "name": "Name",
+                "view": "View"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure?",
+                "messageForDelete": "Do you really want to delete this city?",
+                "okLebel": "Delete",
+                "options": "No, don't"
+            },
+            "message": {
+                "deletedSuccessFully": "City deleted successfully!",
+                "editedSuccessFully": "City edited successfully!",
+                "addedSuccessFully": "City added successfully!"
+            }
+        }
+    },
+    "banner": {
+        "title": "All Banners",
+        "form":{
+            "button": {
+                "addBanner": "Add Banner"
+            },
+            "cardMenuItems": {
+                "editMenu": "Edit",
+                "deleteMenu": "Delete"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this Banner ?",
+                "option": "Cancel",
+                "okLabel": "Delete"
+            },
+            "successMessage": {
+                "addedSuccessfully": "Banner added Successfully",
+                "editedSuccessfully": "Banner edited Successfully",
+                "deletedSuccessfully": "Banner deleted Successfully"
+            },
+            "error": {
+                "deleteError": "Something went wrong"
+            }
+        }
+    },
+    "transactions": {
+        "title": "All Transactions",
+        "noInstitution": "No Transactions found .",
+        "oops": "Oops !",
+        "createdBy": "Students Name",
+        "price": "Price",
+        "institution": "Institution",
+        "slno": "Sl. No"
+    },
+    "timetable": {
+        "title": "Timetable Requests",
+        "selectTeacher" : "Select a Teacher",
+        "selectTeacherToContinue" : "Select a Teacher to see the Timetable"
+    },
+    "leads": {
+        "title": "All Leads",
+        "search": "Search Name",
+        "form": {
+            "tableHeadings": {
+                "slNo": "Sl No.",
+                "name": "Name",
+                "phone": "Phone",
+                "action": "Action"
+            },
+            "button": {
+                "delete": "Delete"
+            },
+            "confirmDialog": {
+                "titleForDelete": "Are you sure ?",
+                "messageForDelete": "Do you really want to delete this Lead ?",
+                "option": "Cancel",
+                "okLabel": "Delete"
+            },
+            "successMessage": {
+                "deletedSuccessfully": "Lead deleted Successfully"
+            },
+            "error": {
+                "deleteError": "Something went wrong",
+                "noLeadsFound": "No Leads Found"
+            }
+        }
+    }
+}

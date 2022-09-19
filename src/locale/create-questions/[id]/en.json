@@ -1,0 +1,53 @@
+{
+    "examName": "Exam Name",
+    "course": "Course",
+    "subject": "Subject",
+    "cancel": "Clear",
+    "editQuestion": "Edit Question",
+    "done": "Done",
+    "createExam": "Create Exam",
+    "type": "Type",
+    "assignedTeacher": "Assigned Teacher",
+    "no of questions": "No. of Questions",
+    "create": "Create",
+    "delete": "Delete",
+    "next": "Next",
+    "edit": "Update",
+    "title": "Add Questions",
+    "schedule": "Schedule",
+    "selectGrade": "Grades",
+    "SelectOneType": "Select one type",
+    "TypeOfExam": "Type Of Exam",
+    "CreateExam": "Create Exam",
+    "CreateGrades": "Create Grades",
+    "validate": {
+        "name": "Enter a name",
+        "course": "Enter a course",
+        "subject": "Enter a subject",
+        "description": "Enter a description",
+        "type": "Enter a type"
+    },
+    "confirmDialog": {
+        "titleForDelete": "Are you sure ?",
+        "messageForDelete": "Do you really want to delete this Exam?",
+        "okLebel": "Delete",
+        "options": "No, don't"
+    },
+    "successMessage":{
+        "deletedSuccessFully": "deleted successfully"
+    },
+    "error": {
+        "deleteError": "something went wrong"
+    },
+    "placeHolder": {
+        "search" : "Search Exams",
+        "nameLabel": "Exam Name"
+    },
+    "messages": {
+        "questionsRequired" : "Provide a question",
+        "value": "Provide atleast two option",
+        "correctAnswer": "Provide the correct answer",
+        "mark": "Provide a mark"
+
+    }
+}

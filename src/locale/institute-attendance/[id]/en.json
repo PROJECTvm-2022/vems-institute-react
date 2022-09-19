@@ -1,0 +1,30 @@
+{
+    "title": "All Live Classes",
+    "all": "All",
+    "UpComing": "UpComing",
+    "OnGoing": "OnGoing",
+    "Completed": "Completed",
+    "button":"Add Schedule",
+    "noSchedule":"No ive class found",
+    "dialogTitle": "Take Attendance",
+    "button-cancel": "Cancel",
+    "dialogButton": "Submit Attendance",
+    "no_student": "No students Found",
+    "takeAttendance": "Attendance taken successfully",
+    "takeAttendanceButton":"Take Attendance",
+    "startClass":"Start Class",
+    "classesStarted":"Class started now u can take attendance",
+    "endClass":"End Class",
+    "classEnded": "Class ended successfully",
+    "link": "Join Classroom",
+    "unSelectAll": "Unselect All",
+    "selectAll": "Select All",
+    "ViewAttendance": "View Attendance",
+    "no_student_present": "No Student present",
+    "confirm": {
+        "title": "Are your sure?",
+        "message": "Do you want to start this class ?",
+        "remove": "No",
+        "yes": "Yes"
+    }
+}
